@@ -1,0 +1,9 @@
+# Ignore all subdirectories (they have their own git repos)
+core-platform/
+frontend-apps/
+web-misc/
+
+# Ignore common files
+.DS_Store
+Thumbs.db
+*.log
